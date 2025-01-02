@@ -4,7 +4,7 @@ Enhance the user experience of the [Zen Browser](https://zen-browser.app/) with 
 
 ---
 
-thumbnail
+- thumbnail
 ![image](./sidebar-animation-thumbnail.png)
 
 ### Sidebar in compact mode
